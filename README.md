@@ -39,7 +39,7 @@ This repository contains all the scripts developed for the experiments in this p
 
 ## XAI
 
-!()[XAI.jpg]
+![](XAI.jpg?raw=true)
 
 # Citation
 
