@@ -44,10 +44,18 @@ This repository contains all the scripts developed for the experiments in this p
 # Citation
 
 ```
-@article{teixeira2020impact,
-  title={Impact of lung segmentation on the diagnosis and explanation of COVID-19 in chest X-ray images},
-  author={Teixeira, Lucas O and Pereira, Rodolfo M and Bertolini, Diego and Oliveira, Luiz S and Nanni, Loris and Cavalcanti, George DC and Costa, Yandre MG},
-  journal={arXiv preprint arXiv:2009.09780},
-  year={2020}
+@article{teixeira2020covidimpact,
+  title = {Impact of Lung Segmentation on the Diagnosis and Explanation of COVID-19 in Chest X-ray Images},
+  volume = {21},
+  ISSN = {1424-8220},
+  url = {http://dx.doi.org/10.3390/s21217116},
+  DOI = {10.3390/s21217116},
+  number = {21},
+  journal = {Sensors},
+  publisher = {MDPI AG},
+  author = {Teixeira,  Lucas O. and Pereira,  Rodolfo M. and Bertolini,  Diego and Oliveira,  Luiz S. and Nanni,  Loris and Cavalcanti,  George D. C. and Costa,  Yandre M. G.},
+  year = {2021},
+  month = oct,
+  pages = {7116}
 }
 ```
